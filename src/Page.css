@@ -13,6 +13,7 @@
   padding: 0;
   box-sizing: border-box;
   scroll-behavior: smooth;
+  font-family: 'Poppins', sans-serif;
 }
 
 body {
@@ -33,7 +34,7 @@ header {
   top: 0;
   width: 100%;
   background: var(--background);
-  padding: 1rem 2rem;
+  padding: 1rem 4rem;
   display: flex;
   justify-content: space-between;
   align-items: center;

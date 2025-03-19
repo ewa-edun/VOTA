@@ -57,17 +57,16 @@ A **one-page app** with clear, concise sections with smooth scrolling navigation
 ### Resources You'll Need  
 
 1. **Domain & Hosting**  
-   - Since they already have a domain, confirm if they have **hosting** (e.g., Vercel, Netlify, Hostinger, Bluehost)  
-   - If they don’t, Vercel or Netlify is great for a React SPA (Single Page Application)  
+   - Since they already have a domain, confirm if they have **hosting** (Vercel)   
 
 2. **Tech Stack**  
    - **Frontend**: React (App.jsx)  
    - **Styling**: CSS (animations in `App.css`, smooth scroll, hover effects)  
    - **Form Handling**: React hooks (`useState`, `useEffect`). 
-   - **Deployment**: Vercel, Netlify, or traditional hosting with FTP  
+   - **Deployment**: Vercel.  
 
 3. **UI/UX Enhancements**  
-   - **Fonts**: Google Fonts (e.g., Poppins, Montserrat for a clean look)  
+   - **Fonts**: Google Fonts (Poppins)  
    - **Icons**: Font Awesome or Material Icons  
    - **Animations**: CSS keyframes or libraries like Framer Motion (optional)  
    - **Responsive Design**: Ensure mobile compatibility with flexbox/grid  
