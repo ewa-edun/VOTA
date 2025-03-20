@@ -182,7 +182,7 @@ function Apply() {
               />
             </div>
             <div className="form-group">
-              <label htmlFor="monthlySalary">Monthly Salary (KES)*</label>
+              <label htmlFor="monthlySalary">Monthly Salary (Naira)*</label>
               <input
                 type="number"
                 id="monthlySalary"
@@ -200,7 +200,7 @@ function Apply() {
           <h2>Loan Details</h2>
           <div className="form-grid">
             <div className="form-group">
-              <label htmlFor="loanAmount">Loan Amount (KES)*</label>
+              <label htmlFor="loanAmount">Loan Amount (Naira)*</label>
               <input
                 type="number"
                 id="loanAmount"
@@ -255,7 +255,7 @@ function Apply() {
               </select>
             </div>
             <div className="form-group">
-              <label htmlFor="collateralValue">Collateral Value (KES)*</label>
+              <label htmlFor="collateralValue">Collateral Value (Naira)*</label>
               <input
                 type="number"
                 id="collateralValue"
@@ -349,7 +349,7 @@ function Apply() {
               />
             </div>
             <div className="form-group">
-              <label htmlFor="guarantorMonthlySalary">Monthly Salary (KES)*</label>
+              <label htmlFor="guarantorMonthlySalary">Monthly Salary (Naira)*</label>
               <input
                 type="number"
                 id="guarantorMonthlySalary"
